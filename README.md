@@ -19,12 +19,11 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Uncategorized
 
-- [x] Lisp Hackers [📖](https://www.goodreads.com/book/show/18129140-lisp-hackers)
-- [x] ⭐ What if [📖](https://www.goodreads.com/book/show/21413662-what-if)
-- [x] The Simpsons and Their Mathematical Secrets [📖](https://www.goodreads.com/book/show/17287021-the-simpsons-and-their-mathematical-secrets)
+- [ ] Lisp Hackers [📖](https://www.goodreads.com/book/show/18129140-lisp-hackers)
+- [ ] ⭐ What if [📖](https://www.goodreads.com/book/show/21413662-what-if)
+- [ ] The Simpsons and Their Mathematical Secrets [📖](https://www.goodreads.com/book/show/17287021-the-simpsons-and-their-mathematical-secrets)
 - [ ] A short history of nearly everything [📖](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
 - [ ] Werner Siemens [📖](http://www.siemens.com/content/dam/internet/siemens-com/global/company/about/history/personalities/werner-von-siemens/2016-lifelines-werner-von-siemens-web.pdf)
-- [ ] 33 ступеньки в небо [📖](https://www.livelib.ru/book/1000447240-33-stupenki-v-nebo-anatolij-markusha)
 - [ ] A Mathematicians Miscellany [📖](https://archive.org/details/mathematiciansmi033496mbp)
 - [ ] A Little Life [📖](https://www.goodreads.com/book/show/22822858-a-little-life)
 - [ ] Confessions of a Terrible Husband: Lessons Learned From a Lumpy Couch [📖](https://www.goodreads.com/book/show/25781351-confessions-of-a-terrible-husband)
@@ -40,13 +39,12 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] ️⭐️ **The 5 Elements of Effective Thinking** [📖](https://www.goodreads.com/book/show/14891980-the-5-elements-of-effective-thinking)
 - [ ] ⭐️ **Systems Thinking Made Simple** [📖](https://www.goodreads.com/book/show/25956449-systems-thinking-made-simple)
 - [ ] ️⭐️ **Thinking in Systems: A Primer** [📖](https://www.goodreads.com/book/show/3828902-thinking-in-systems)
-- [ ] Системноинженерное мышление [📖](https://www.dropbox.com/s/0sq0yph81uhui9p/systems_engineering_thinking_2015.pdf?dl=0)
 - [ ] Farsighted: How We Make the Decisions That Matter the Most [📖](https://www.goodreads.com/book/show/38769051-farsighted?ac=1&from_search=true)
 - [ ] ⭐️ ‼️ **The Book Of Why** [📖](https://www.goodreads.com/book/show/36204378-the-book-of-why)
 
 ## Learning
 
-- [x] ⭐️ **Make it stick: the Science of Successful Learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
+- [ ] ⭐️ **Make it stick: the Science of Successful Learning** [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
 - [ ] ⭐️ ‼️ **Mastery** [📖](https://www.goodreads.com/book/show/13589182-mastery)
 - [ ] ⭐️ ‼️ **Pragmatic Thinkig and Learning** [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
 - [ ] ⭐️ **Better: A Surgeon’s Notes on Performance** [📖](https://www.goodreads.com/book/show/213233.Better)
@@ -55,14 +53,14 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Philosophy
 
-- [x] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
-- [x] ⭐ The Little Book of Lykke [📖](https://www.goodreads.com/book/show/34879265-the-little-book-of-lykke)
-- [x] ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
-- [x] ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
-- [x] ⭐ Essentialism: The Disciplined Pursuit of Less [📖](https://www.goodreads.com/book/show/18077875-essentialism)
-- [x] The Tao of Pooh [📖](https://www.goodreads.com/book/show/48757.The_Tao_of_Pooh)
-- [x] ⭐️️️ The Tao of Physics [📖](https://www.goodreads.com/book/show/10238.The_Tao_of_Physics)
-- [x] ⭐️️ The Web of Life [📖](https://www.goodreads.com/book/show/314114.The_Web_of_Life)
+- [ ] ⭐ The Little Book of Hygge: The Danish Way to Live Well [📖](https://www.goodreads.com/book/show/30045683-the-little-book-of-hygge)
+- [ ] ⭐ The Little Book of Lykke [📖](https://www.goodreads.com/book/show/34879265-the-little-book-of-lykke)
+- [ ] ‼️ *A Guide to the Good Life: The Ancient Art of Stoic Joy*[📖](https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life)
+- [ ] ‼️ *The Choice* [📖](https://www.goodreads.com/book/show/4845427-the-choice)
+- [ ] ⭐ Essentialism: The Disciplined Pursuit of Less [📖](https://www.goodreads.com/book/show/18077875-essentialism)
+- [ ] The Tao of Pooh [📖](https://www.goodreads.com/book/show/48757.The_Tao_of_Pooh)
+- [ ] ⭐️️️ The Tao of Physics [📖](https://www.goodreads.com/book/show/10238.The_Tao_of_Physics)
+- [ ] ⭐️️ The Web of Life [📖](https://www.goodreads.com/book/show/314114.The_Web_of_Life)
 - [ ] ⭐️️ Meditations [📖](https://www.goodreads.com/book/show/30659.Meditations)
 - [ ] Letters from a Stoic [📖](https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic)
 - [ ] Dialogues and Essays [📖](https://www.goodreads.com/book/show/1933080.Dialogues_and_Essays)
@@ -73,16 +71,15 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Mindset Enhancement
 
-- [x] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism)
-- [x] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
-- [x] ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
-- [x] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
-- [x] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
-- [x] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
-- [x] Think and Grow Rich [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)
-- [x] Красная таблетка [📖](https://www.goodreads.com/book/show/36695564)
-- [x] Winter Blues [📖](https://www.goodreads.com/book/show/685532.Winter_Blues)
-- [x] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving)
+- [ ] ‼️ **Learned Optimism** [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism)
+- [ ] ⭐️️️ ‼️ **Feeling Good: The New Mood Therapy** [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
+- [ ] ‼️ **The 7 Habits of Highly Effective People** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [ ] ‼️ **The Subtle Art Of Not Giving a Fuck** [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
+- [ ] ‼️ **Emotional Intelligence: Why It Can Matter More Than IQ** [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
+- [ ] ‼️ **Solve for Happy: Engineer Your Path to Joy** [📖](https://www.goodreads.com/book/show/30354426-solve-for-happy)
+- [ ] Think and Grow Rich [📖](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)
+- [ ] Winter Blues [📖](https://www.goodreads.com/book/show/685532.Winter_Blues)
+- [ ] ⭐️️ **The Art Of Loving** [📖](https://www.goodreads.com/book/show/14142.The_Art_of_Loving)
 - [ ] ⭐️ **Search Inside Yourself** [📖](https://www.goodreads.com/book/show/12921211-search-inside-yourself)
 - [ ] ⭐️️️ ‼️ **The Joy of Living: Unlocking the Secret and Science of Happiness** [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
 - [ ] ⭐️ **Fooled by Randomness** [📖](https://www.goodreads.com/book/show/38315.Fooled_by_Randomness)
@@ -107,7 +104,6 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] The Sovereign Individual [📖](https://www.goodreads.com/book/show/82256.The_Sovereign_Individual)
 - [ ] Mindfulness for Beginners [📖](https://www.goodreads.com/book/show/22045755-mindfulness-for-beginners)
 - [ ] The Defining Decade [📖](https://www.goodreads.com/book/show/13523061-the-defining-decade)
-- [ ] Апгрейд обезьяны [📖](https://www.ozon.ru/context/detail/id/3359223/)
 - [ ] Elite minds [📖](https://www.goodreads.com/book/show/18756719-elite-minds)
 - [ ] The Political Brain [📖](https://www.goodreads.com/book/show/853648.The_Political_Brain)
 - [ ] Speeches that Changed the World [📖](https://www.goodreads.com/book/show/588050.Speeches_That_Changed_the_World)
@@ -131,9 +127,9 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Social Skills
 
-- [x] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
-- [x] ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-- [x] ⭐️️️ ‼️ **The Social Skills Guidebook** [📖](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook)
+- [ ] ️‼️ **Difficult Conversations: How to Discuss What Matters Most** [📖](https://www.goodreads.com/book/show/774088.Difficult_Conversations)
+- [ ] ‼️ **How to win friends and influence people** [📖](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [ ] ⭐️️️ ‼️ **The Social Skills Guidebook** [📖](https://www.goodreads.com/book/show/28728007-the-social-skills-guidebook)
 - [ ] ⭐️️️ ‼️ **People Skills** [📖](https://www.goodreads.com/book/show/65327.People_Skills)
 - [ ] ⭐️ **Crucial Conversations** [📖](https://www.goodreads.com/book/show/15014.Crucial_Conversations)
 - [ ] ⭐️ **Getting Past No** [📖](https://www.goodreads.com/book/show/228331.Getting_Past_No)
@@ -144,10 +140,10 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## UX & Design
 
-- [x] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
-- [x] ‼️ **Hooked: How to Build Habit-Forming Products** [📖](https://www.goodreads.com/book/show/22668729-hooked)
-- [x] ‼️ **Resonate: Present Visual Stories that Transform Audiences** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
-- [x] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)
+- [ ] ‼️ **Badass: Making Users Awesome** [📖](https://www.goodreads.com/book/show/24737268-badass)
+- [ ] ‼️ **Hooked: How to Build Habit-Forming Products** [📖](https://www.goodreads.com/book/show/22668729-hooked)
+- [ ] ‼️ **Resonate: Present Visual Stories that Transform Audiences** [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
+- [ ] Design for Hackers [📖](https://www.goodreads.com/book/show/11457105-design-for-hackers)
 - [ ] ⭐️ ‼️ **The Humane Interface** [📖](https://www.goodreads.com/book/show/344726.The_Humane_Interface)
 - [ ] ⭐️ ‼️ **The Design of Everyday Things** [📖](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 - [ ] ⭐️ **Non-Designer's Design Book, The, 4th Edition** [📖](https://www.goodreads.com/book/show/41597.The_Non_Designer_s_Design_Book)
@@ -159,10 +155,10 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Coaching & Teaching
 
-- [x] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
-- [x] ⭐️ HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG)
-- [x] ⭐️ ‼️ Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman [📖](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
-- [x] ⭐️ What Got You Here Won't Get You There [📖](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
+- [ ] The Coaching Habit: Say Less, Ask More [📖](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
+- [ ] ⭐️ HBR Guide to Coaching Employees [📖](https://hbr.org/product/hbr-guide-to-coaching-employees/13990-PBK-ENG)
+- [ ] ⭐️ ‼️ Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman [📖](https://www.goodreads.com/book/show/5608045-apprenticeship-patterns)
+- [ ] ⭐️ What Got You Here Won't Get You There [📖](https://www.goodreads.com/book/show/84525.What_Got_You_Here_Won_t_Get_You_There)
 - [ ] ⭐️ ‼️ **Coaching for Performance** [📖](https://www.goodreads.com/book/show/949515.Coaching_for_Performance)
 - [ ] ⭐️ Free To Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life [📖](https://www.goodreads.com/book/show/15843125-free-to-learn)
 - [ ] ⭐️ The New Education [📖](https://www.goodreads.com/book/show/33784506-the-new-education)
@@ -195,20 +191,20 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Engineering & Programming
 
-- [x] ⭐️ ‼️ **Structure and Interpretation of Computer Programs** [📖](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
-- [x] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it)
-- [x] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
-- [x] Building Microservices [📖](https://www.goodreads.com/book/show/22512931-building-microservices)
-- [x] ‼️ **The Passionate Programmer** [📖](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
-- [x] ‼️ **Soft Skills** [📖](https://www.goodreads.com/book/show/23232941-soft-skills)
-- [x] ‼️ ️**Clean Code** [📖](https://www.goodreads.com/book/show/3735293-clean-code)
-- [x] ‼️️ **Head First Design Patterns** [📖](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
-- [x] ‼️ **The Pragmatic Programmer: From Journeyman to Master** [📖](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
-- [x] Clean Architecture [📖](https://www.goodreads.com/book/show/18043011-clean-architecture)
-- [x] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
-- [x] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
-- [x] **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete)
-- [x] ⭐️ **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** [📖](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+- [ ] ⭐️ ‼️ **Structure and Interpretation of Computer Programs** [📖](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+- [ ] ‼️ **Release it**! [📖](https://pragprog.com/book/mnee/release-it)
+- [ ] ‼️ **Practical Object-Oriented Desing with Ruby** [📖](http://www.poodr.com/)
+- [ ] Building Microservices [📖](https://www.goodreads.com/book/show/22512931-building-microservices)
+- [ ] ‼️ **The Passionate Programmer** [📖](https://www.goodreads.com/book/show/6399113-the-passionate-programmer)
+- [ ] ‼️ **Soft Skills** [📖](https://www.goodreads.com/book/show/23232941-soft-skills)
+- [ ] ‼️ ️**Clean Code** [📖](https://www.goodreads.com/book/show/3735293-clean-code)
+- [ ] ‼️️ **Head First Design Patterns** [📖](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+- [ ] ‼️ **The Pragmatic Programmer: From Journeyman to Master** [📖](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [ ] Clean Architecture [📖](https://www.goodreads.com/book/show/18043011-clean-architecture)
+- [ ] Domain Driven Design Distilled [📖](https://www.goodreads.com/book/show/28602719-domain-driven-design-distilled)
+- [ ] How Many Licks?: Or, How to Estimate Damn Near Anything  [📖](https://www.goodreads.com/book/show/6838831-how-many-licks)
+- [ ] **Code Complete: A Practical Handbook of Software Construction, Second Edition** [📖](https://www.goodreads.com/book/show/4845.Code_Complete)
+- [ ] ⭐️ **The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win** [📖](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 - [ ] ⭐ ‼️ Basic Category Theory [📖](https://www.goodreads.com/book/show/22108484-basic-category-theory)
 - [ ] ⭐ ‼️ **The Art of Doing Science and Engineering** [📖](https://www.goodreads.com/book/show/530415.The_Art_of_Doing_Science_and_Engineering)
 - [ ] ⭐️ ‼️️ **Domain Modeling Made Functional** [📖](https://www.goodreads.com/book/show/34921689-domain-modeling-made-functional)
@@ -287,17 +283,15 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Career, Skill Acquisition, Personal Growth
 
-- [x] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
-- [x] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
-- [x] ‼️ **Deep Work** [📖](https://www.goodreads.com/book/show/25744928-deep-work)
-- [x] Make the Most of Your Mind [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
-- [x] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
-- [x] ⭐️ **Work rules!** [📖](https://www.goodreads.com/book/show/22875447-work-rules)
-- [x] Камасутра для оратора [📖](https://www.goodreads.com/book/show/11159197-10)
-- [x] Из связей в князи [📖](https://www.dropbox.com/s/tceqpxqbhv2s16i/%D0%98%D0%B7_%D1%81%D0%B2%D1%8F%D0%B7%D0%B5%D0%B9_%D0%B2_%D0%BA%D0%BD%D1%8F%D0%B7%D0%B8_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2.pdf)
-- [x] How to Do What You Love & Earn What You’re Worth as a Programmer [📖](https://www.goodreads.com/book/show/13485352-how-to-do-what-you-love-earn-what-you-re-worth-as-a-programmer)
-- [x] 80000 hours: Career Guide [📖](https://80000hours.org/career-guide/)
-- [x] ⭐️ Peak: Secrets from the New Science of Expertise [📖](https://www.goodreads.com/book/show/26312997-peak)
+- [ ] ‼️ **Thinking, Fast and Slow** [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [ ] ‼️ **Getting Things Done (2015 edition)** [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
+- [ ] ‼️ **Deep Work** [📖](https://www.goodreads.com/book/show/25744928-deep-work)
+- [ ] Make the Most of Your Mind [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
+- [ ] So Good They Can't Ignore You [📖](https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you)
+- [ ] ⭐️ **Work rules!** [📖](https://www.goodreads.com/book/show/22875447-work-rules)
+- [ ] How to Do What You Love & Earn What You’re Worth as a Programmer [📖](https://www.goodreads.com/book/show/13485352-how-to-do-what-you-love-earn-what-you-re-worth-as-a-programmer)
+- [ ] 80000 hours: Career Guide [📖](https://80000hours.org/career-guide/)
+- [ ] ⭐️ Peak: Secrets from the New Science of Expertise [📖](https://www.goodreads.com/book/show/26312997-peak)
 - [ ] Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers [📖](https://www.goodreads.com/book/show/31823677-tools-of-titans)
 - [ ] Big Magic: Creative Living Beyond Fear [📖](https://www.goodreads.com/book/show/24453082-big-magic)
 - [ ] Программирование. Ступени успешной карьеры [📖](https://www.ozon.ru/context/detail/id/2644499/)
@@ -319,10 +313,10 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Habits & Lifestyle
 
-- [x] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits)
-- [x] ⭐ ‼️ **Stick With It** [📖](https://www.goodreads.com/book/show/34017101-stick-with-it)
-- [x] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
-- [x] ⭐️ **The Power of Habit** [📖](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
+- [ ] ‼️ **Mini Habits** [📖](https://www.goodreads.com/book/show/20567918-mini-habits)
+- [ ] ⭐ ‼️ **Stick With It** [📖](https://www.goodreads.com/book/show/34017101-stick-with-it)
+- [ ] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
+- [ ] ⭐️ **The Power of Habit** [📖](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
 - [ ] ️⭐️ **Algorithms to live by** [📖](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 - [ ] ️⭐️ **Productivity Handbook** [📖](https://www.dropbox.com/s/kf39sos23qtwzax/Prouductivity%20Handbook.pdf?dl=0)
 - [ ] 52 Small Changes: One Year to a Happier, Healthier You [📖](https://www.goodreads.com/book/show/13034840-52-small-changes)
@@ -331,8 +325,8 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Finance
 
-- [x] ⭐️ ‼️ **Your Money or Your Life** [📖](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life?ac=1&from_search=true)
-- [x] ⭐️ ‼️ **If you can: how millenials can get rich slowly** [📖](https://www.goodreads.com/book/show/21852252-if-you-can)
+- [ ] ⭐️ ‼️ **Your Money or Your Life** [📖](https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life?ac=1&from_search=true)
+- [ ] ⭐️ ‼️ **If you can: how millenials can get rich slowly** [📖](https://www.goodreads.com/book/show/21852252-if-you-can)
 - [ ] ⭐️ **The Little Book of Common Sense Investing** [📖](https://www.goodreads.com/book/show/171127.The_Little_Book_of_Common_Sense_Investing)
 - [ ] ⭐️ **All about Asset Allocation** [📖](https://www.goodreads.com/book/show/9316522-all-about-asset-allocation)
 - [ ] ⭐️ **Debunking Economics** [📖](https://www.goodreads.com/book/show/10303367-debunking-economics---revised-and-expanded-edition)
@@ -345,21 +339,21 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Manliness
 
-- [x] The Way Of The Superior Man [📖](https://www.goodreads.com/book/show/79424.The_Way_Of_The_Superior_Man)
-- [x] ⭐️ ‼️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy)
-- [x] ️**Models** [📖](https://www.goodreads.com/book/show/12633800-models)
-- [x] ⭐️ **Man's search for meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+- [ ] The Way Of The Superior Man [📖](https://www.goodreads.com/book/show/79424.The_Way_Of_The_Superior_Man)
+- [ ] ⭐️ ‼️ **No More Mr. Nice Guy** [📖](https://www.goodreads.com/book/show/97642.No_More_Mr_Nice_Guy)
+- [ ] ️**Models** [📖](https://www.goodreads.com/book/show/12633800-models)
+- [ ] ⭐️ **Man's search for meaning** [📖](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
 - [ ] Tao Te Ching [📖](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 
 ## Marketing & Sales
 
-- [x] ⭐️ **Positioning: The Battle for Your Mind** [📖](https://www.goodreads.com/book/show/10061378-positioning)
-- [x] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well)
-- [x] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)
-- [x] ⭐️ **How I Raised Myself from Failure to Success in Selling** [📖](https://www.goodreads.com/book/show/109515.How_I_Raised_Myself_From_Failure_to_Success_in_Selling)
-- [x] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
-- [x] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
-- [x] ‼️ **Made to Stick: Why Some Ideas Survive and Others Die** [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick)
+- [ ] ⭐️ **Positioning: The Battle for Your Mind** [📖](https://www.goodreads.com/book/show/10061378-positioning)
+- [ ] ⭐️ **On Writing Well: The Classic Guide to Writing Nonfiction** [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well)
+- [ ] ⭐️ **Пиши, Сокращай**  [📖](https://book.glvrd.ru/)
+- [ ] ⭐️ **How I Raised Myself from Failure to Success in Selling** [📖](https://www.goodreads.com/book/show/109515.How_I_Raised_Myself_From_Failure_to_Success_in_Selling)
+- [ ] The Burned-Out Blogger's Guide to PR [📖](https://www.goodreads.com/book/show/23212278-the-burned-out-blogger-s-guide-to-pr)
+- [ ] ‼️ Crossing the Chasm [📖](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
+- [ ] ‼️ **Made to Stick: Why Some Ideas Survive and Others Die** [📖](https://www.goodreads.com/book/show/69242.Made_to_Stick)
 - [ ] ⭐️ ‼️ **The Professional Marketer** [📖](https://www.goodreads.com/book/show/23340620-the-professional-marketer)
 - [ ] ⭐️️️ **15 invaluable laws of growth** [📖](https://www.goodreads.com/book/show/13529210-the-15-invaluable-laws-of-growth)
 - [ ] ⭐️️️ **The 22 Immutable Laws of Marketing** [📖](https://www.goodreads.com/book/show/33449.The_22_Immutable_Laws_of_Marketing)
@@ -368,14 +362,14 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Management, Entrepreneurship, Strategy 
 
-- [x] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
-- [x] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
-- [x] ⭐️ ‼️ **Start Small, Stay Small: A Developer's Guide to Launching a Startup** [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)
-- [x] ⭐️ **The 100$ Startup** [📖](https://www.goodreads.com/book/show/12605157-the-100-startup)
-- [x] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
-- [x] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
-- [x] The Five Dysfunctions of a Team [📖](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
-- [x] Не мешайте мне работать [📖](https://www.goodreads.com/book/show/10589139)
+- [ ] ‼️ **The Secrets of Consulting** [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
+- [ ] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
+- [ ] ⭐️ ‼️ **Start Small, Stay Small: A Developer's Guide to Launching a Startup** [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)
+- [ ] ⭐️ **The 100$ Startup** [📖](https://www.goodreads.com/book/show/12605157-the-100-startup)
+- [ ] ⭐️ ‼️ **E-myth revisited** [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
+- [ ] ⭐️ **The ten day MBA** [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
+- [ ] The Five Dysfunctions of a Team [📖](https://www.goodreads.com/book/show/21343.The_Five_Dysfunctions_of_a_Team)
+- [ ] Не мешайте мне работать [📖](https://www.goodreads.com/book/show/10589139)
 - [ ] ⭐ **Good to Great** [📖](https://www.goodreads.com/book/show/76865.Good_to_Great)
 - [ ] ⭐ Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture [📖](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
 - [ ] ⭐ ‼️ **The art of Strategy: A Game Theorist's Guide to Success in Business and Life** [📖](https://www.goodreads.com/book/show/2423424.The_Art_of_Strategy)
@@ -400,7 +394,6 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] ⭐ The Manager's Path [📖](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 - [ ] Managing Humans: Biting and Humorous Tales of a Software Engineering Manager [📖](https://www.goodreads.com/book/show/1317946.Managing_Humans)
 - [ ] Balancing Agility and Discipline: A Guide for the Perplexed [📖](https://www.goodreads.com/book/show/771159.Balancing_Agility_and_Discipline)
-- [ ] Контент-технология: как, где и о чем говорить с клиентами [📖](http://www.ozon.ru/context/detail/id/34541714/)
 - [ ] The War for Talent [📖](https://www.goodreads.com/book/show/691746.The_War_for_Talent)
 - [ ] Playing to win [📖](https://www.goodreads.com/book/show/13586928-playing-to-win)
 - [ ] Zero to One [📖](https://www.goodreads.com/book/show/18050143-zero-to-one)
