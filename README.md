@@ -19,7 +19,7 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Uncategorized
 
-- [ ] Lisp Hackers [📖](https://www.goodreads.com/book/show/18129140-lisp-hackers)
+- [ ] Unlocking Agility [📖]Unlocking Agility: An Insider's Guide to Agile Enterprise Transformation
 - [ ] ⭐ What if [📖](https://www.goodreads.com/book/show/21413662-what-if)
 - [ ] The Simpsons and Their Mathematical Secrets [📖](https://www.goodreads.com/book/show/17287021-the-simpsons-and-their-mathematical-secrets)
 - [ ] A short history of nearly everything [📖](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)
